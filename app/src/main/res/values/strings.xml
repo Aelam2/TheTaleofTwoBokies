@@ -9,23 +9,25 @@
     <string name="page0_choice1">Discuss recent break-up and add her on Facebook</string>
     <string name="page0_choice2">Go Home</string>
 
-    <string name="page1">You deftly land your ship near where the distress signal originated. You didn\'t notice anything strange on your fly-by, but there is a cave in front of you. Behind you is an abandoned rover from the early 21st century.</string>
-    <string name="page1_choice1">Explore the cave</string>
-    <string name="page1_choice2">Explore the rover</string>
+    <string name="page1">Alex went home that night and had butterflies in his stomach... After all, the best way to get over a dead dog is to get a puppy! Right? He grabbed his phone and immediatly invited Sawah beara over for a pizza dinner date at the 5 start Alex Basement Resort Spa House.</string>
+    <string name="page1_choice1">Accept his invitation</string>
+    <string name="page1_choice2">Decline the date</string>
 
-    <string name="page2">You continue your course to Earth. Two days later, you receive a transmission from HQ saying that they have detected some sort of anomaly on the surface of Mars near an abandoned rover. They ask you to investigate, but ultimately the decision is yours because your mission has already run much longer than planned and supplies are low.</string>
-    <string name="page2_choice1">Head back to Mars to investigate</string>
-    <string name="page2_choice2">Continue home to Earth</string>
+    <string name="page2">While Sarah had declined his pizza date, she was willing to give him chance, by inviting him over to a romantic picnic in her basement. Alex accepted of course and the love story gets to continue (since you tried to end it by declining his first date......) Where should these two love birds go for their 2nd date?</string>
+    <string name="page2_choice1">THE ZOO!</string>
+    <string name="page2_choice2">SIX FLAGS!</string>
 
-    <string name="page3">Your EVA suit is equipped with a headlamp, which you use to navigate the cave. After searching for a while your oxygen levels are starting to get pretty low. You know you should go refill your tank, but there\'s a very faint light up ahead.</string>
-    <string name="page3_choice1">Refill at ship and explore the rover</string>
-    <string name="page3_choice2">Continue towards the faint light</string>
+    <string name="page3">Disaster strikes... Alex has decided to attend Maryville University and will be moving 4 hours away. Unsure of a long distance relationship. Sarah must decide if Alex is worth waiting for?</string>
+    <string name="page3_choice1">Save money and move to St. Louis</string>
+    <string name="page3_choice2">Give up on Awexypoo</string>
 
-    <string name="page4">The rover is covered in dust and most of the solar panels are broken. But you are quite surprised to see the on-board system booted up and running. In fact, there is a message on the screen: \"%1$s, come to 28.543436, -81.369031.\" Those coordinates aren\'t far, but you don\'t know if your oxygen will last for a trip there and back.</string>
+    <string name="page4">Long nights working at Wal-mart, days without speaking to Alex, and hours crying into wolfy's fur. Times were tough, but atleast they got to visit each other every other weekend! Whether it was Alex driving </string>
     <string name="page4_choice1">Explore the coordinates</string>
     <string name="page4_choice2">Return to Earth</string>
 
-    <string name="page5">After a long walk slightly uphill, you end up at the top of a small crater. You look around, and are overjoyed to see your favorite android, %1$s-S1124. It had been lost on a previous mission to Mars! You take it back to your ship and fly back to Earth.</string>
+    <string name="page5">The time is finally here. The wait is over. Together forever! An apartment in ST. LOUIS!</string>
 
-    <string name="page6">You arrive home on Earth. While your mission was a success, you forever wonder what was sending that signal. Perhaps a future mission will be able to investigate…</string>
+    <string name="page6">Alex went home that night and fell asleep like any other day. The love story ends here before it even got started. Both Sarah and Alex had one chance and they both let it slip away. Million of future memories will never exist.</string>
+    <string name="page7">The love story ends here before it even got started. Both Sarah and Alex had one chance and they both let it slip away. Million of future memories will never exist.</string>
+    <string name="page8"></string>
 </resources>

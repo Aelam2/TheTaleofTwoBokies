@@ -9,25 +9,38 @@
     <string name="page0_choice1">Discuss recent break-up and add her on Facebook</string>
     <string name="page0_choice2">Go Home</string>
 
-    <string name="page1">Alex went home that night and had butterflies in his stomach... After all, the best way to get over a dead dog is to get a puppy! Right? He grabbed his phone and immediatly invited Sawah beara over for a pizza dinner date at the 5 start Alex Basement Resort Spa House.</string>
+    <string name="page1">Alex went home that night and had butterflies in his stomach… After all, the best way to get over a dead dog is to get a puppy! Right? He grabbed his phone and immediatly invited Sawah beara over for a pizza dinner date at the 5 start Alex Basement Resort Spa House.</string>
     <string name="page1_choice1">Accept his invitation</string>
     <string name="page1_choice2">Decline the date</string>
 
-    <string name="page2">While Sarah had declined his pizza date, she was willing to give him chance, by inviting him over to a romantic picnic in her basement. Alex accepted of course and the love story gets to continue (since you tried to end it by declining his first date......) Where should these two love birds go for their 2nd date?</string>
+    <string name="page2">While Sarah had declined his pizza date, she was willing to give him a chance by inviting him over to a romantic picnic in her basement. Alex accepted of course and the love story gets to continue (since you tried to end it by declining his first date......) Where should these two love birds go for their 2nd date?</string>
     <string name="page2_choice1">THE ZOO!</string>
     <string name="page2_choice2">SIX FLAGS!</string>
 
-    <string name="page3">Disaster strikes... Alex has decided to attend Maryville University and will be moving 4 hours away. Unsure of a long distance relationship. Sarah must decide if Alex is worth waiting for?</string>
+    <string name="page3">Disaster strikes… Alex has decided to attend Maryville University and will be moving 4 hours away. Unsure of a long distance relationship. Sarah must decide if Alex is worth waiting for?</string>
     <string name="page3_choice1">Save money and move to St. Louis</string>
     <string name="page3_choice2">Give up on Awexypoo</string>
 
-    <string name="page4">Long nights working at Wal-mart, days without speaking to Alex, and hours crying into wolfy's fur. Times were tough, but atleast they got to visit each other every other weekend! Whether it was Alex driving </string>
-    <string name="page4_choice1">Explore the coordinates</string>
-    <string name="page4_choice2">Return to Earth</string>
+    <string name="page4">Long nights working at Wal-mart, days without speaking to Alex, and hours crying into wolfy\'s fur. Times were tough, but atleast they got to visit each other every other weekend! Whether it was Alex driving 4+ hours or Sawahypoo watching his track meets. </string>
+    <string name="page4_choice1">Move to St. Louis</string>
 
     <string name="page5">The time is finally here. The wait is over. Together forever! An apartment in ST. LOUIS!</string>
 
     <string name="page6">Alex went home that night and fell asleep like any other day. The love story ends here before it even got started. Both Sarah and Alex had one chance and they both let it slip away. Million of future memories will never exist.</string>
-    <string name="page7">The love story ends here before it even got started. Both Sarah and Alex had one chance and they both let it slip away. Million of future memories will never exist.</string>
-    <string name="page8"></string>
+    <string name="page6_choice1">Do you want to actually try this time?</string>
+
+    <string name="page7">The love story ends here before it even got started. Both Sarah and Alex had one chance and they both let it slip away. Million of future memories will never exist. I shouldn\'t even give you an option to restart the story!</string>
+    <string name="page8">Well it looks like the love story ends here… All of those long nights staying up were for nothing… I\'m not even going to give you the option to restart the story!</string>
+
+    <string name="page9">PENGUINS. POLAR BEARS. GIRAFFES?!?!? The only thing better than the zoo is a house with 100 doggies!</string>
+    <string name="page9_choice1">Complete successful date!</string>
+
+    <string name="page10">Up, down, left, right! Did I mention its hot as fuck? P.S. (I couldn\'t find an old picture of us at six flags. So this will have to do!</string>
+    <string name="page10_choice1">Complete successful date!</string>
+
+    <string name="page11">Well that was delicious! I think these bokie bears are actually falling in love! What is next on their list of adventures?</string>
+    <string name="page11_choice1">THE ZOO!</string>
+    <string name="page11_choice2">SIX FLAGS!</string>
+    <string name="Story_image_description">Story page image</string>
+    <string name="end_game_button_text">Do you want to actually try this time?</string>
 </resources>

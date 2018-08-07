@@ -1,6 +1,7 @@
 package agentsparkles.thetaleoftwobokies.model;
 
 public class Page {
+    private boolean isOnePage = false;
     private int ImageId;
     private int textId;
     private Choice Choice1;
@@ -12,6 +13,13 @@ public class Page {
         this.textId = textId;
         Choice1 = choice1;
         Choice2 = choice2;
+    }
+
+    public Page(int imageId, int textId, Choice choice1) {
+        ImageId = imageId;
+        this.textId = textId;
+        Choice1 = choice1;
+        isOnePage = true;
     }
 
     public Page(int imageId, int textId) {
@@ -57,5 +65,13 @@ public class Page {
 
     public void setFinalPage(boolean finalPage) {
         isFinalPage = finalPage;
+    }
+
+    public boolean isOnePage() {
+        return isOnePage;
+    }
+
+    public void setOnePage(boolean isOnePage) {
+        isFinalPage = isOnePage;
     }
 }
